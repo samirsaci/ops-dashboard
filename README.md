@@ -9,7 +9,7 @@
 Build reporting capabilities to provide supply chain visibility and support the operational teams of a Distribution Center of a mid-size retailer
 
 ### Medium Article
-In this [Medium Article](--), we will design a simple architecture to deploy an interactive dashboard for Warehousing Operations using the Python Library DataPane.
+In this [Medium Article](https://towardsdatascience.com/deploy-logistics-operational-dashboards-using-datapane-585cf19532f1), we will design a simple architecture to deploy an interactive dashboard for Warehousing Operations using the Python Library DataPane.
                                                                                               
 ## Code
 This repository code you will find all the code used to explain the concepts presented in the article.
