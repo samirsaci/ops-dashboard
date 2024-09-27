@@ -2,7 +2,8 @@
 *Deploy Reporting Solutions using DataPane to Support Warehousing Logistics Operations for E-Commerce*
 
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*98M7Na3RICD0nI7cPdn3Ug.png">
+  <img alt="A 3D diagram of a warehouse divided into four operational steps: Step 1: Orders are received by the admin team (indicated by red text and arrow). Step 2: Orders are picked from racks by the picking team (blue text and arrow). Step 3: Orders are packed into parcels (yellow text and arrow). Step 4: Parcels are shipped to customers (black text and arrow). The image illustrates the sequence of logistics operations within a distribution center."
+    align="center" src="https://cdn-images-1.medium.com/max/800/1*98M7Na3RICD0nI7cPdn3Ug.png">
 </p>
 
 ### Objective
