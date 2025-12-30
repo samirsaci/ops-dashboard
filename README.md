@@ -11,6 +11,7 @@
   </a>
 </p>
 
+
 ### Objective
 Build reporting capabilities to provide supply chain visibility and support the operational teams of a Distribution Center of a mid-size retailer.
 
@@ -18,7 +19,7 @@ Build reporting capabilities to provide supply chain visibility and support the 
 In this [Article](https://www.samirsaci.com/deploy-logistics-operational-dashboards-using-datapane/), we will design a simple architecture to deploy an interactive dashboard for Warehousing Operations using the Python Library DataPane.
                                                                                               
 ## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
+In this repository, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
