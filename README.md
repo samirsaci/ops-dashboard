@@ -21,6 +21,14 @@ In this [Article](https://www.samirsaci.com/deploy-logistics-operational-dashboa
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/) 
+## Go further
+
+- **The full write-up, with the reasoning behind the code:** [Deploy Logistics Operational Dashboards using DataPane](https://www.samirsaci.com/deploy-logistics-operational-dashboards-using-datapane/?utm_source=github&utm_medium=readme&utm_campaign=ops-dashboard)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=ops-dashboard) has a quiz on the supply chain control tower and the analytics track, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=ops-dashboard)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+ 
